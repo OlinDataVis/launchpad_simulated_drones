@@ -4,11 +4,11 @@ Have you ever just had a burning desire to fly around a simulated drone? Even if
 ## 1. Setup
 Before we can jump right in to simulating this drone, we have to set a few things up.
 
-## a. Simulated Drone Setup:
+### a. Simulated Drone Setup:
 The instructions to set up ROS, Gazebo, and our beautiful quadrotor drone are all right here:
 https://github.com/OlinDataVis/ardrone_gazebo
 
-## b. Controller Setup
+### b. Controller Setup
 Of course, what's a drone without a means of controlling it? ROS's teleop_twist_keyboard makes it possible to control our drone with nothing but our keyboard. All you have to do is open your terminal and type:
 
     $ sudo apt-get install ros-kinetic-teleop-twist-keyboard
