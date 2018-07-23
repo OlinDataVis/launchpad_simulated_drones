@@ -21,7 +21,7 @@ It's finally time to have some fun with this drone! Here's a cheatsheet of comma
     $ roscore
     $ roslaunch ardrone_vislab_gazebo ardrone_vislab.launch
     $ rostopic pub /quadrotor/ardrone/takeoff std_msgs/Empty "{}" 
-    $ ROS_NAMEPSACE=quadrotor rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+    $ ROS_NAMESPACE=quadrotor rosrun teleop_twist_keyboard teleop_twist_keyboard.py
     
 You should now be able to fly your drone around when you select the terminal running the teleop twist keyboard. Have some fun flying around the drone and exploring what's possible thorugh the Gazebo GUI. If the simulation breaks, don't worry. You can always restart it by restarting the terminal running "roslaunch ardrone_vislab_gazebo ardrone_vislab.launch".
 
