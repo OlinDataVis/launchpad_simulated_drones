@@ -27,3 +27,5 @@ You should now be able to fly your drone around when you select the terminal run
 
 ## 3. How is all of this working?
 So all of this stuff is really awesome, but so far we haven't talked very much about what's going on behind the scenes. 
+
+NOTE: This is still in development. Explanations coming soon!
