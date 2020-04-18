@@ -29,3 +29,5 @@ You should now be able to fly your drone around when you select the terminal run
 So all of this stuff is really awesome, but so far we haven't talked very much about what's going on behind the scenes. 
 
 NOTE: This is still in development. Explanations coming soon!
+
+NOTE #2: This project has actually been dropped and explanations are, in fact, not coming soon... But hopefully this should help get you started on this path if it's something that interests you!
